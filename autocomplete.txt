@@ -1,6 +1,1 @@
----
----
-
-{%- for post in site.posts -%}
-{{ post.title | strip_html | escape }}{% unless foorloop.last %};{% endunless %}
-{%- endfor -%}
+Install and Setup;Jekyll Garden Features;
